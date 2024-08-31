@@ -13,13 +13,13 @@ Passionate and experienced Fronend Developer, with a strng technical skill set a
 
 
 #### Projects
-[Recipe.com](https://theomnitron.github.io/Recipe.com)
+[Recipe.com](https://theomnitron.github.io/Recipe.com/)
 
-[Recipe-v2.0.com](https://theomnitron.github.io/Recipe-v2.0.com)
+[Recipe-v2.0.com](https://theomnitron.github.io/Recipe.com_v2.0/)
 
-[Mario-club.com](https://theomnitron.github.io/Mario-club.com)
+[Mario-club.com](https://theomnitron.github.io/Mario-club.com/)
 
-[Zenith-Bank-Form.com](https://theomnitron.github.io/Zenith-Bank-Form.com)
+[Zenith-Bank-Form-Project.com](https://theomnitron.github.io/Zenith-Bank-Form.com/)
 
 
 
